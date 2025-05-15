@@ -7,3 +7,5 @@ Asi que cambie a python
 
 subi el intento en java que no sirvio y el de phyton
 trate de borrar el de java porque no sirvio, pero solo borre lo que contenia el archivo y no el archivo en si
+
+lo hice en OnlineGDB porque no se como poner python en visual
